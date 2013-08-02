@@ -1,0 +1,30 @@
+[
+  
+    {
+  "title"    : "A Fresh New Start With Jekyll",
+  "summary"  : "Jekyll may just have what it takes to solve many of my web publishing woes...",
+  "category" : "",
+  "tags"     : ["web presence","jekyll", null],
+  "url"      : "http://richardplacide.github.io/2013/07/30/fresh-start-jekyll/",
+  "date"     : {
+    "day"   : "30",
+    "month" : "July",
+    "year"  : "2013"
+  }
+},
+  
+    {
+  "title"    : "Assuming A Web Presence",
+  "summary"  : "A presence on the web is always strategic and timely...",
+  "category" : "",
+  "tags"     : ["web presence", null],
+  "url"      : "http://richardplacide.github.io/2013/07/22/assuming-a-web-presence/",
+  "date"     : {
+    "day"   : "22",
+    "month" : "July",
+    "year"  : "2013"
+  }
+},
+  
+  null
+]

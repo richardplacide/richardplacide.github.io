@@ -1,2 +1,1 @@
-richardplacide.github.io
-========================
+## richardplacide.com
