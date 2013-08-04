@@ -26,9 +26,9 @@ end
 
 ## config for push task. 
 deploy_branch   = "master"
-deploy_dir      = "/home/richardplacide/Projects/richardplacide.github.io"
+deploy_dir      = "/Users/richardplacide/Projects/richardplacide.github.io"
 public_dir      = "_site"
-remote_name     = "ghp"
+remote_name     = "origin"
 
 
 desc "copy dot files for deployment"
@@ -42,6 +42,9 @@ end
 desc "deploy public directory to github pages"
 multitask :push do
   puts "## Deploying branch to Github Pages "
+  puts "## Building site"
+  system "jekyll build"
+  puts "\n## jekyll site built"
   puts "## Pulling any updates from Github Pages "
   cd "#{deploy_dir}" do 
     system "git pull"
