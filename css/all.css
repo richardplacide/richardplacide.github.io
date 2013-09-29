@@ -64,7 +64,7 @@ body {
   padding: 19px 24px;
   font-size: 24px;
   font-weight: 200;
-  color: #fff; /* redeclare to override the `.jumbotron a` */
+  color: #000; /* redeclare to override the `.jumbotron a` */
   border: 0;
   -webkit-border-radius: 6px;
      -moz-border-radius: 6px;
@@ -149,6 +149,14 @@ only screen and (     -o-min-device-pixel-ratio: 2/1) {
 
 }
 
+.masthead-nav .active-page a {
+  color:#fff;
+  background:#000;
+  border-radius: 5px;
+}
+
+
+
 /* Masthead (docs home)
 ------------------------- */
 .masthead {
@@ -177,6 +185,11 @@ only screen and (     -o-min-device-pixel-ratio: 2/1) {
   display: inline;
   padding: 0 10px;
   color: rgba(255,255,255,.25);
+}
+
+/* label-info, badge */
+.container .label-info, .container .badge-info {
+  background-color: #000;
 }
 
 
@@ -255,13 +268,15 @@ a.social.gplus:hover {
   background: url(/img/social_icons.png) -170px -34px no-repeat;
 }
 
+
+
 body {
     margin: 0;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-size: 16px;
     line-height: 24px;
     color: #444444;
-    background-color: #F0F0F0;
+    background-color: #fff;
 }
 
 .post-title a:link, .post-title a:visited {
@@ -402,6 +417,7 @@ ol#search-results li {
 .pager a:hover .icon.next { background-position:-100px -70px; }
 .pager .icon-arrow-left { position: fixed; left: 0; }
 .pager .icon-arrow-right { position: fixed; }
+
 /*!
  * Bootstrap Responsive v2.3.2
  *
