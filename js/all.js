@@ -107,4 +107,13 @@ jQuery(document).ready(function() {
         }).debounce(100));
     };
     search();
+
+    var str=location.href.toLowerCase();
+    
+    $(".masthead-nav li a").each(function() {
+    if (str.indexOf(this.href.toLowerCase()) > -1) {
+        $("li.active-page").removeClass("active-page");
+        $(this).parent().addClass("active-page");
+        }
+    });
 });
