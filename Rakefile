@@ -1,6 +1,23 @@
 require 'rubygems'
 require 'rake'
 require 'fileutils'
+require 'yaml'
+
+ #== Configuration =============================================================
+
+# Set "rake watch" as default task
+task :default => :watch
+
+# Load the configuration file
+CONFIG = YAML.load_file("_config.yml")
+
+# Get and parse the date
+DATE = Time.now.strftime("%Y-%m-%d")
+
+# Directories
+POSTS = "_posts"
+DRAFTS = "_drafts"
+
 
 desc "Draft a new post"
 task :new do
@@ -26,7 +43,7 @@ end
 
 ## config for push task. 
 deploy_branch   = "master"
-deploy_dir      = "/Users/richardplacide/Projects/richardplacide.github.io"
+deploy_dir      = "/Users/richarddev/Projects/richardplacide.github.io"
 public_dir      = "_site"
 remote_name     = "origin"
 

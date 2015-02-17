@@ -4,7 +4,7 @@
  <title>Richard Placide</title>
  <link href="http://richardplacide.github.io/atom.xml" rel="self"/>
  <link href="http://richardplacide.github.io/"/>
- <updated>2014-07-20T12:20:49-04:00</updated>
+ <updated>2015-02-17T00:39:40-04:00</updated>
  <id>http://richardplacide.github.io</id>
  <author>
    <name>Richard Placide</name>
@@ -12,50 +12,106 @@
  
  
  <entry>
-   <title>A Fresh New Start With Jekyll</title>
-   <link href="http://richardplacide.github.io/2013/07/30/fresh-start-jekyll/"/>
-   <updated>2013-07-30T08:00:00-04:00</updated>
-   <id>http://richardplacide.github.io/2013/07/30/fresh-start-jekyll</id>
-   <content type="html">&lt;p&gt;In a way I think I am lucky to have experienced what are to me the three main stages of web development.&lt;/p&gt;
+   <title>WordPress.com vs Weebly & Co</title>
+   <link href="http://richardplacide.github.io/2015/01/10/wordpress-vs-weebly/"/>
+   <updated>2015-01-10T08:00:00-04:00</updated>
+   <id>http://richardplacide.github.io/2015/01/10/wordpress-vs-weebly</id>
+   <content type="html">&lt;p&gt;Wordpress est le leader incontestable de la publication web.
+WordPress.com excellente formule de démarrage pour de nombreux sites ou blogs. C’est d’ailleurs l’une des plus grande plate-forme d’hébergement&lt;/p&gt;
 
-&lt;h2&gt;Static web page&lt;/h2&gt;
+&lt;p&gt;Si peu de CMS viennent contester WordPress et notamment le service wordpress.com, les services de création de site sur le modèle de SquareSpace semblent offrir une excellente alternative notamment pour des débutants/non spécialistes.&lt;/p&gt;
 
-&lt;p&gt;The first stage, which started way before I discovered it, is of course building static web pages. Fortunately I started web development when Dreamweaver was already a full fledged product which eased the chore of creating and maintainig dozens if not hundred of html pages. It was not a pleasant experience though and I first ran into major headaches when I had to take a 10+-years-old website with several hundred html and images files. Learning the structure was a hard task especially since I didn&#39;t have the contact of the web developper who had worked on it.
-Fortunaly, my mssion consisted precisely in moving away from this maintenance-hell to a modern content management system. It is safe to say that very few web developpers would regret this era.&lt;/p&gt;
+&lt;p&gt;Squarespace, weebly, virb, strikingly, jola, jimdo et d’autres sont fondés sur le principe d’un cms propriétaire qui sert de base à un offre qui inclut l’hébergement et l’utilisation du CMS. Pour ces services l’accent est mis sur la disponibilité de thèmes professionnels et sur la customisation avancée de ceux-ci.&lt;/p&gt;
 
-&lt;h2&gt;Content Management Systems&lt;/h2&gt;
+&lt;p&gt;Weebly.com est l’un de ces services. Il dispose d’une offre gratuite complétée comme il se doit par des plans commerciaux.&lt;/p&gt;
 
-&lt;p&gt;The first content management system I learned was Joomla circa 2006. Interestingly I inherited the huge static website two years later. After Joomla I tested Drupal, that made a great impression on me and also the unavoidable WordPress.&lt;/p&gt;
+&lt;p&gt;Comparer WordPress.com et Weebly donne une bonne idée des enjeux posés par ces nouvelles plateformes.&lt;/p&gt;
 
-&lt;p&gt;In 2008, my mission consisted in moving away from the html website to a new typo3 solution. I had no experience with that CMS and since we had established a long selection process I was allowed to try and test alternative solution like Drupal and ... Django. Although a web framework like Django or Rails can be a perfect fit for a large website I soon realized that this would be too much development for our needs and we wanted to fall into the same trap: having a web solution that was either hard to maintain or that required a specific skillset that the organisation was not willing to hire anyway. Drupal had my preference but sadly, givn the short time I was not able to master it to the point where I could counter the strong argument in favor of Typo3. Indeed this large CMS was the preferred choice of our IT department.&lt;/p&gt;
+&lt;h2&gt;Créer un article&lt;/h2&gt;
 
-&lt;p&gt;After 5 years of using typo3, I am particularly frustrated with a needlessly complex piece of software compared to our needs. I might be saying more about me than about Typo3 but after 5 years I&#39;m still not confortable with it and I keep getting biten by it. On the other hand, I discoverd and enjoyed WordPress a bit later and it is a plateform that I am quite at ease with. As a matter of fact WordPress is the go-to solution that (like a lot of people) recommend without any hesitation. I will go as far I saying that most people should actually start by evaluation WordPress and then move to something else if it doesn&#39;t fit the bill.&lt;/p&gt;
+&lt;p&gt;Créer un premier article sur wordpress.com est extrêmement simple.&lt;/p&gt;
 
-&lt;h2&gt;Static sites generators&lt;/h2&gt;
+&lt;p&gt;Toutefois j’ai pu constater que la compréhension de l’interface de wordpress pouvait dérouter les débutants complets. La notion de backend (interface d’administration) par rapport au contenu visible (front end n’est pas toujours évidente). L&#39;option de création de contenu en mode blog pallie à la lourdeur relative du tableau de bord mais masque l&#39;essentiel des fonctionnalités.&lt;/p&gt;
 
-&lt;p&gt;This lead us to July 2013, when I finally got my hand on Jekyll. I had been aware of the concept of static sites generators but at the time I didn&#39;t really understand how useful the concept could be. The only solution I gave a cursory look to was Hyde (because at the time I was in my python-or-nothing mindset). If only I had known that ruby doesn&#39;t really matter when it comes to using Jekyll I might have given this number one solution the closer look it deserves. It is interesting to note that it is because I got a bit more familiar with ruby (mostly through rails) that I was willing to give Jekyll a try.&lt;/p&gt;
+&lt;p&gt;Du point de vue de la prise en main Weebly s’impose en simplicité et surtout en intuitivité. L’utilisateur est naturellement tenté de cliquer sur le séléments existants pour les modifier… et çà marche!&lt;/p&gt;
 
-&lt;p&gt;So what is the fuss about with sites generators ? In a word: they&#39;re awesome! But that is a bit too simplistic.&lt;/p&gt;
+&lt;h2&gt;Modifier le site&lt;/h2&gt;
 
-&lt;p&gt;To me they are the near perfect middle ground between content management systems, classic sites and even web frameworks. With them, the web developper retains a significant amount of flexibility and ease of content publishing from the cms world while benefiting from the performance (no server side code, no database) and security advantages (again no server side code and no database) of static websites.&lt;/p&gt;
+&lt;p&gt;La différence majeure, et qui est en faveur de Weebly, concerne l’adaptation du site.&lt;/p&gt;
 
-&lt;p&gt;A great starting point is Garry Welding&#39;s &lt;a href=&quot;http://in-the-attic.com/2013/01/04/building-a-blog-using-jekyll-bootstrap-and-github-pages-a-beginners-guide/&quot;&gt;beginner&#39;s guide&lt;/a&gt; that has the benefit of coming with a forkable blog example that works perfectly out of the box. This blog is based on Garry&#39;s great work.&lt;/p&gt;
+&lt;p&gt;Avec wordpress.com tout se joue avec le thème. Et la plupart des thèmes gratuits laissent peu de place à des mise en page complexes. De manière générale, la plupart des contenus (articles ou pages) sont relativement homogènes.&lt;/p&gt;
+
+&lt;p&gt;Avec Weebly.com, le thème n’est que le point de départ. Le créateur de site permet d’ajuster à loisir un nombre important d’éléments de contenu, le tout de manière visuelle. Avec un simple glisser déplacer depuis la boîte à outil, le webmaster peut ajouter des colonnes, des titres et des images pratiquement où bon lui semble.&lt;/p&gt;
+
+&lt;h2&gt;Mise à jour et maintenance&lt;/h2&gt;
+
+&lt;p&gt;Du point de vue de la maintenance du site les deux plateformes en ligne font jeu égal puisque dans les deux cas ces opérations sont transparentes  pour l’utilisateur.&lt;/p&gt;
+
+&lt;p&gt;La différence est surtout notable dans le cas d’un cms hébergé par l’utilisateur, par exemple lors de l&#39;utilisation du cms disponible sur wordpress.org et installable en un clic chez la plupart des hébergeurs web.&lt;/p&gt;
+
+&lt;h2&gt;Conclusion: Pour certains usages avantage à Weebly &amp;amp; Co&lt;/h2&gt;
+
+&lt;p&gt;Le choix d’une plateforme comme Weebly ou encore SquareSpace revient à accorder la priorité au contenu et à la personalisation. L’idée est presque d’oublier le CMS et s’immerger dans son site. A l&#39;inverse, WordPress.com rappelle sans cesse à l’utilisateur qu’il est aussi administrateur d’une plateforme web. Pour une majeure partie des usagers potentiels de WordPress.com, Weebly représente une bien meilleure option.&lt;/p&gt;
+
+&lt;p&gt;Wordpress.org est quant à lui bien différent car son installation ouvre les portes d’un développement de sites et d’applications web totalement personnalisées. Cette offre répond plus particulièrement aux besoins de ceux qui se positionnent comme des professionnels du web.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Assuming A Web Presence</title>
-   <link href="http://richardplacide.github.io/2013/07/22/assuming-a-web-presence/"/>
-   <updated>2013-07-22T08:00:00-04:00</updated>
-   <id>http://richardplacide.github.io/2013/07/22/assuming-a-web-presence</id>
-   <content type="html">&lt;p&gt;It&#39;s never too late to start assuming a web presence, and it is as important as ever.
-Having your own web outlet is not just about existing on the inter-connected world it is also about controlling the message; your message.&lt;/p&gt;
+   <title>De WordPress A Jekyll</title>
+   <link href="http://richardplacide.github.io/2014/11/01/wordpress-a-jekyll/"/>
+   <updated>2014-11-01T08:00:00-04:00</updated>
+   <id>http://richardplacide.github.io/2014/11/01/wordpress-a-jekyll</id>
+   <content type="html">&lt;p&gt;WordPress est en 2014 la plateforme de référence pour la publication web. Du simple blog à des sites d&#39;entreprise, WordPress s&#39;est imposé comme LA solution de référence et le CMS numéro un du moment.&lt;/p&gt;
 
-&lt;p&gt;For how people and organisations perceive you and your personal brand is increasingly dependant on what can be found on the web. Having your own blog and social media accounts is one way to influence what exists about you on the web.&lt;/p&gt;
+&lt;p&gt;Mais pour toutes ses qualités, WordPress n&#39;est qu&#39;une solution web parmi d&#39;autres. Et la réflexion continue sans cesse.&lt;/p&gt;
 
-&lt;p&gt;Setting up a blog or a website is the first step towards achieving more control your personal brand and image.&lt;/p&gt;
+&lt;p&gt;Face à l&#39;hégémonie des CMS conçus en php, une nouvelle approche prend de l&#39;ampleur pour la publication de sites personnels sur le modèle du blog: il s&#39;agit des générateurs de sites statiques. Et la référence de la catégorie s&#39;appelle Jekyll.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/posts/assuming-a-web-presence/shangtower.jpg&quot; alt=&quot;Shangai Towers&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;L&#39;idée derrière Jekyll (et des générateurs de sites statiques en général) est de tenter une approche hybride entre l&#39;ancienne formule des sites purement satiques et les CMS bien plus complexes. D&#39;un côté on conserve un thème commun à toutes les pages, un ou plusieurs modèles de pages et surtout la séparation claire entre le contenu,  la structure et l&#39;apparence du site. A l&#39;autre extremité on retrouve des pages purement statiques composées de html de css et de javascript sans base de données et sans code exécuté sur le serveur (pas de php ou équivalent).&lt;/p&gt;
+
+&lt;h2&gt;Pourquoi remettre en question les cms ?&lt;/h2&gt;
+
+&lt;p&gt;Le principal inconvénient des CMS pour sites personnels est leur relative complexité. Un site wordpress exécute du code php, fait de nombreuses requêtes sollicitant le serveur de bases de données et se compose d&#39;un nombre relativement important de fichiers. Le code côté serveur est non seulement pénalisant en terme de performance mais il est surtout la principale source de problèmes de sécurité.&lt;/p&gt;
+
+&lt;h2&gt;Fonctionnement de Jekyll&lt;/h2&gt;
+
+&lt;p&gt;Jekyll est une solution écrite en Ruby qui utilise le language Markdown pour la création du contenu (apr exemple des articles) et Liquid pour les templates. Aucune connaissance en ruby n&#39;est réellement nécessairement pour utiliser Jekyll, tout comme peu d&#39;utilisateurs de wordpress ont besoin de connaître php. Ruby se révèle surtout util pour la cration de plugins Jekyll... et pur ceux qui souhaitent contribuer au projet. Liquid utilise des balises spécifiques et des filtres pour afficher du contenu comme par exemple:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt; titre_page  site.name 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Pour la création des articles (posts), il suffit de créer un fichier par article. Idéalement le nom du fichier contient la date de ce dernier afin d&#39;aider au classement chronologique. L&#39;en-tête de l&#39;article est constitué de meta-informations comme le type de contenu (layout:) ou l&#39;image utilisée pour la liste d&#39;articles.&lt;/p&gt;
+
+&lt;p&gt;Par exemple l&#39;article que vous lisez en ce moment contient l&#39;en-tête suivant:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;comments: true
+date: 2013-11-01 12:00:00
+layout: post
+slug: wordpress-a-jekyll
+title: De WordPress A Jekyll
+summary: &#39;Jekyll est peut-être la bonne solution pour la gestion de mon blog...&#39;
+image: &#39;wordpress-a-jekyll/jekyll.jpg&#39;
+tags:
+- presence web
+- jekyll
+- cms
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Pour le reste de l&#39;article, la rédaction se fait à l&#39;aide de &lt;a href=&quot;http://fr.wikipedia.org/wiki/Markdown&quot;&gt;Markdown&lt;/a&gt; ce qui permet d&#39;utiliser un simple editeur de texte tout en bénéficiant d&#39;options de mise en forme de texte.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>La Presence Web</title>
+   <link href="http://richardplacide.github.io/2014/10/01/presence-web/"/>
+   <updated>2014-10-01T08:00:00-04:00</updated>
+   <id>http://richardplacide.github.io/2014/10/01/presence-web</id>
+   <content type="html">&lt;p&gt;La présence Web est un concept stratégique dont l&#39;importance est toujours sous-estimée. En effet il ne s&#39;agit pas simplement d&#39;avoir une simple vitrine sur le web, concept intégré très rapidement par la plupart des organisations, commerciales ou non.&lt;/p&gt;
+
+&lt;p&gt;La présence Web est l&#39;acceptation que le web est devenu le point central de la civilisation de l&#39;information. Une présence Web est un choix délibéré de participer à cette évolution et de tenter de controller son message et son image. Il s&#39;agit d&#39;une démarche consciente et active.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/presence-web/shangtower.jpg&quot; alt=&quot;Shangai Towers&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
