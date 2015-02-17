@@ -4,4 +4,4 @@ Jekyll Blog for github pages
 
 Note: 
 
-Rake's sync task expects home/richardplacide/Project/richardplacide.github.io to exist
+Rake's sync task expects home/richarddev/Project/richardplacide.github.io to exist
