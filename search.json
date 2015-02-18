@@ -2,7 +2,7 @@
   
     {
   "title"    : "WordPress.com vs Weebly & Co",
-  "summary"  : "Wordpress est le leader incontestable de la publication web. Mais les nouveaux outils de création de sites en ligne offrent une alternative puissante et simple...",
+  "summary"  : "Wordpress est le leader incontestable de la publication web. Mais les nouveaux outils de création de sites en ligne comme weebly offrent une alternative puissante et simple...",
   "category" : "",
   "tags"     : ["wordpress","presence web","cms", null],
   "url"      : "http://richardplacide.github.io/2015/01/10/wordpress-vs-weebly/",
@@ -14,11 +14,11 @@
 },
   
     {
-  "title"    : "De WordPress A Jekyll",
-  "summary"  : "Jekyll est une alternative intéressante à WordPress pour certains scénarios...",
+  "title"    : "Wordpress A Jekyll",
+  "summary"  : "",
   "category" : "",
-  "tags"     : ["presence web","jekyll","cms", null],
-  "url"      : "http://richardplacide.github.io/2014/11/01/wordpress-a-jekyll/",
+  "tags"     : [ null],
+  "url"      : "http://richardplacide.github.io/2014/11/01//",
   "date"     : {
     "day"   : "01",
     "month" : "November",
