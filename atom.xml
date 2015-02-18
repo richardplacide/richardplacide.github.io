@@ -4,7 +4,7 @@
  <title>Richard Placide</title>
  <link href="http://richardplacide.github.io/atom.xml" rel="self"/>
  <link href="http://richardplacide.github.io/"/>
- <updated>2015-02-17T22:47:58-04:00</updated>
+ <updated>2015-02-17T22:49:39-04:00</updated>
  <id>http://richardplacide.github.io</id>
  <author>
    <name>Richard Placide</name>
@@ -12,9 +12,9 @@
  
  
  <entry>
-   <title>WordPress.com vs Weebly & Co</title>
+   <title>Wordpress Vs Weebly</title>
    <link href="http://richardplacide.github.io/2015/01/10/wordpress-vs-weebly/"/>
-   <updated>2015-01-10T08:00:00-04:00</updated>
+   <updated>2015-01-10T00:00:00-04:00</updated>
    <id>http://richardplacide.github.io/2015/01/10/wordpress-vs-weebly</id>
    <content type="html">&lt;p&gt;Wordpress est le leader incontestable de la publication web.
 WordPress.com excellente formule de démarrage pour de nombreux sites ou blogs. C’est d’ailleurs l’une des plus grande plate-forme d’hébergement&lt;/p&gt;
@@ -58,9 +58,9 @@ WordPress.com excellente formule de démarrage pour de nombreux sites ou blogs. 
  </entry>
  
  <entry>
-   <title>Wordpress A Jekyll</title>
+   <title>De WordPress A Jekyll</title>
    <link href="http://richardplacide.github.io/2014/11/01/wordpress-a-jekyll/"/>
-   <updated>2014-11-01T00:00:00-04:00</updated>
+   <updated>2014-11-01T08:00:00-04:00</updated>
    <id>http://richardplacide.github.io/2014/11/01/wordpress-a-jekyll</id>
    <content type="html">&lt;p&gt;WordPress est en 2015 la plateforme de référence pour la publication web. Du simple blog à des sites d&#39;entreprise, WordPress s&#39;est imposé comme LA solution de référence et le CMS numéro un du moment.&lt;/p&gt;
 
