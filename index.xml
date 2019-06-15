@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Richard Placide on Richard&#39;s blog</title>
+    <link>/</link>
+    <description>Recent content in Richard Placide on Richard&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Jun 2017 19:07:50 -0400</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coding: Granular Testing</title>
+      <link>/post/2017-06-24-coding-granular-testing/</link>
+      <pubDate>Sat, 24 Jun 2017 19:07:50 -0400</pubDate>
+      
+      <guid>/post/2017-06-24-coding-granular-testing/</guid>
+      <description>An article I published on orbitalcoding.com :
+Code first, Granular testing : an intermediate/alternative approach to Test Driven Development
+http://orbitalcoding.com/post/2017-06-02-granular-testing/</description>
+    </item>
+    
+    <item>
+      <title>A blog reborn</title>
+      <link>/post/2017-06-24-blog-reborn/</link>
+      <pubDate>Sat, 24 Jun 2017 18:53:15 -0400</pubDate>
+      
+      <guid>/post/2017-06-24-blog-reborn/</guid>
+      <description>richardplacide.com started as a static site using http://jekyllrb.coml and Github Pages. Then I moved to a self-hosted WordPress installation. WordPress is a fantastic platform but there are so many virtues to a static website that I had to try again, this time with http://gohugo.io.</description>
+    </item>
+    
+  </channel>
+</rss>
