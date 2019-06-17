@@ -1,67 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>/post/2017-06-24-coding-granular-testing/</loc>
-    <lastmod>2017-06-24T19:07:50-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/post/2017-06-24-blog-reborn/</loc>
-    <lastmod>2017-06-24T18:53:15-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2017-06-24T18:47:47-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/development/</loc>
-    <lastmod>2017-06-24T19:07:50-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/orbital-coding/</loc>
-    <lastmod>2017-06-24T19:07:50-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2017-06-24T19:07:50-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2017-06-24T19:07:50-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2017-06-24T19:07:50-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>/en/sitemap.xml</loc>
+		
+	   	<lastmod>2017-06-24T19:07:50-04:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>/fr/sitemap.xml</loc>
+		
+	</sitemap>
+	
+</sitemapindex>
